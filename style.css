@@ -1,0 +1,33 @@
+body {
+    background:rgb(187, 171, 179);
+}
+
+h2 {
+    color: #1460AA;
+}
+
+.mainheader {
+    color: blue;
+    font-size: 32px;
+    text-align: center
+
+
+}
+
+.sectionheader {
+    color: tomato;
+}
+
+.diaryheader {
+    color: tomato;
+}
+
+body h4 {
+    color: violet;
+}
+
+.main {
+    color:black;
+    background: #cccccc;;
+
+}
